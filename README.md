@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/luxus"><img src="https://api.daily.dev/devcards/387d0131b8aa4ada9224138b0355841a.png?r=f5r" width="400" alt="Luxusg1's Dev Card"/></a>
+
 <!--
 **luxusg1/luxusg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
